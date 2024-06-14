@@ -1,6 +1,6 @@
 ### Self Taught and Self Loathing
 
+* Co-owner of [AniList.co](https://anilist.co)
 * Ex-Minecraft mod developer
-* Creator of dozens of unfinished fullstack projects
-* [AniList](https://anilist.co/home) API enthusiast
 * Watcher of all things Hololive
+* I dig holes and put people in them
